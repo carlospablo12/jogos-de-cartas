@@ -1,0 +1,1 @@
+Esse projeto foi realizado utilizando javascript, com o intuito de aplicar os meus conhecimentos com Array. Utilizei o método de array shift: remove o primeiro elemento do array e retorna o elemento removido. unshift, que por sua vez adcionar o elemento no início do array e o retorna.
